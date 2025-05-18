@@ -32,13 +32,6 @@ namespace ConsoleApp
     {
         static void Main()
         {
-            
-            /*
-                Constraints:
-                n == nums.length
-                1 <= n <= 300
-                nums[i] is either 0, 1, or 2.
-            */
             int[] nums = [2, 0, 2, 1, 1, 0, 0];
             Solution myRes = new Solution();
             myRes.SortColors(nums);
