@@ -1,6 +1,4 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Threading.Channels;
 
 public class Solution {
     public int CountPrimes(int n) {
