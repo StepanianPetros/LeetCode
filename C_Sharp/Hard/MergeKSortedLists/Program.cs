@@ -6,6 +6,7 @@
         this.next = next;
     }
 }
+
 public class Solution {
     public ListNode MergeKLists(ListNode[] lists)
     {
